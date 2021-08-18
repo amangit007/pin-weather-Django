@@ -1,1 +1,2 @@
-"# pin-weather-Django" 
+"# pin-weather-Django"
+Pin weather web app django varient
